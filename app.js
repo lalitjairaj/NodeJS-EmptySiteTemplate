@@ -22,6 +22,6 @@ app.use(express.static(path.join(__dirname,'public')));
 app.use(bodyParser.urlencoded({extended:false}));
  app.use('/api',routes);
 
-var server=app.listen(app.get('port'),function(){
+var server=app.listen(process.env.PORT || 3010,function(){
     console.log("Node server running on port  " + app.get('port'));
 });
