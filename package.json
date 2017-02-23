@@ -1,12 +1,33 @@
 {
-  "name": "application-name",
-  "version": "2.0.0",
-  "private": true,
+  "name": "conti-demo",
+  "version": "1.0.0",
+  "description": "code related to the demo given to conti",
+  "main": "app.js",
   "scripts": {
-    "start": "node server"
-  },  
-"license": "Apache",
-"engines": {
-    "node": "~0.10.0 || ~4.2.0"
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lalitjairaj/conti-demo.git"
+  },
+  "keywords": [
+    "conti-demo",
+    "planner",
+    "proposal"
+  ],
+  "author": "Lalit Jairaj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lalitjairaj/conti-demo/issues"
+  },
+  "homepage": "https://github.com/lalitjairaj/conti-demo#readme",
+  "dependencies": {
+    "bcrypt": "^1.0.2",
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1",
+    "mongoose": "^4.8.4",
+    "node-rest-client": "^2.5.0",
+    "nodejs-config": "^1.0.1"
   }
 }
