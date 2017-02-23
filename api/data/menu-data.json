@@ -1,0 +1,376 @@
+[
+  {
+        "menu-name": "Dashboard",
+        "icon": "",
+        "redirection-url":"/",
+    "type": "menu",
+      "css-class":"fa fa-dashboard",
+        "translations":
+        [
+          {
+            "language-code" :"en-gb",
+            "displaytext" : "Dashboard"
+          },
+          {
+            "language-code" :"fr-FR",
+            "displaytext" : ""
+          },
+          {
+            "language-code" :"de-DE",
+            "displaytext" : ""
+          }
+      ]
+  },
+  {
+    "menu-name": "Planner",
+    "icon": "",
+    "redirection-url":"/",
+    "type": "menu",
+    "css-class":"fa fa-map-o",
+    "translations":
+    [
+      {
+        "language-code" :"en-gb",
+        "displaytext" : "PLANNER"
+      },
+      {
+        "language-code" :"fr-FR",
+        "displaytext" : ""
+      },
+      {
+        "language-code" :"de-DE",
+        "displaytext" : ""
+      }
+    ]
+  },
+  {
+    "menu-name": "Notifications",
+    "icon": "",
+    "redirection-url":"/",
+    "type": "menu",
+    "css-class":"fa fa-bell-o",
+    "translations":
+    [
+      {
+        "language-code" :"en-gb",
+        "displaytext" : "NOTIFICATIONS"
+      },
+      {
+        "language-code" :"fr-FR",
+        "displaytext" : ""
+      },
+      {
+        "language-code" :"de-DE",
+        "displaytext" : ""
+      }
+    ]
+  },
+  {
+    "menu-name": "Communication",
+    "icon": "",
+    "redirection-url":"/",
+    "type": "menu",
+    "css-class":"fa fa-comments-o",
+    "translations":
+    [
+      {
+        "language-code" :"en-gb",
+        "displaytext" : "COMMUNICATION"
+      },
+      {
+        "language-code" :"fr-FR",
+        "displaytext" : ""
+      },
+      {
+        "language-code" :"de-DE",
+        "displaytext" : ""
+      }
+    ]
+  },
+  {
+    "menu-name": "Break",
+    "icon": "",
+    "redirection-url":"/",
+    "type": "break",
+    "css-class":"",
+    "translations":
+    [
+
+    ]
+  },
+  {
+    "menu-name": "Download",
+    "icon": "",
+    "redirection-url":"/",
+    "type": "menu",
+    "css-class":"fa fa-download",
+    "translations":
+    [
+      {
+        "language-code" :"en-gb",
+        "displaytext" : "DOWNLOAD"
+      },
+      {
+        "language-code" :"fr-FR",
+        "displaytext" : ""
+      },
+      {
+        "language-code" :"de-DE",
+        "displaytext" : ""
+      }
+    ]
+  },
+  {
+    "menu-name": "Reports",
+    "icon": "",
+    "redirection-url":"/",
+    "type": "menu",
+    "css-class":"fa fa-wpforms",
+    "translations":
+    [
+      {
+        "language-code" :"en-gb",
+        "displaytext" : "REPORTS"
+      },
+      {
+        "language-code" :"fr-FR",
+        "displaytext" : ""
+      },
+      {
+        "language-code" :"de-DE",
+        "displaytext" : ""
+      }
+    ]
+  },
+  {
+    "menu-name": "Drivers",
+    "icon": "",
+    "redirection-url":"/",
+    "type": "menu",
+    "css-class":"fa fa-vcard",
+    "translations":
+    [
+      {
+        "language-code" :"en-gb",
+        "displaytext" : "DRIVERS"
+      },
+      {
+        "language-code" :"fr-FR",
+        "displaytext" : ""
+      },
+      {
+        "language-code" :"de-DE",
+        "displaytext" : ""
+      }
+    ]
+  },
+  {
+    "menu-name": "Vehicles",
+    "icon": "",
+    "redirection-url":"/",
+    "type": "menu",
+    "css-class":"fa fa-truck",
+    "translations":
+    [
+      {
+        "language-code" :"en-gb",
+        "displaytext" : "VEHICLES"
+      },
+      {
+        "language-code" :"fr-FR",
+        "displaytext" : ""
+      },
+      {
+        "language-code" :"de-DE",
+        "displaytext" : ""
+      }
+    ]
+  },
+  {
+    "menu-name": "Trailers",
+    "icon": "",
+    "redirection-url":"/",
+    "type": "menu",
+    "css-class":"fa fa-link",
+    "translations":
+    [
+      {
+        "language-code" :"en-gb",
+        "displaytext" : "TRAILERS"
+      },
+      {
+        "language-code" :"fr-FR",
+        "displaytext" : ""
+      },
+      {
+        "language-code" :"de-DE",
+        "displaytext" : ""
+      }
+    ]
+  },
+  {
+    "menu-name": "Break",
+    "icon": "",
+    "redirection-url":"/",
+    "type": "break",
+    "css-class":"",
+    "translations":
+    [
+
+    ]
+  },
+  {
+    "menu-name": "Remote-Download",
+    "icon": "",
+    "redirection-url":"/",
+    "type": "menu",
+    "css-class":"fa fa-download",
+    "translations":
+    [
+      {
+        "language-code" :"en-gb",
+        "displaytext" : "REMOTE-DOWNLOAD"
+      },
+      {
+        "language-code" :"fr-FR",
+        "displaytext" : ""
+      },
+      {
+        "language-code" :"de-DE",
+        "displaytext" : ""
+      }
+    ]
+  },
+  {
+    "menu-name": "Belgian Social",
+    "icon": "",
+    "redirection-url":"/",
+    "type": "menu",
+    "css-class":"fa fa-bold",
+    "translations":
+    [
+      {
+        "language-code" :"en-gb",
+        "displaytext" : "BELGIAN SOCIAL"
+      },
+      {
+        "language-code" :"fr-FR",
+        "displaytext" : ""
+      },
+      {
+        "language-code" :"de-DE",
+        "displaytext" : ""
+      }
+    ]
+  },
+  {
+    "menu-name": "Break",
+    "icon": "",
+    "redirection-url":"/",
+    "type": "break",
+    "css-class":"",
+    "translations":
+    [
+
+    ]
+  },
+  {
+    "menu-name": "Connect",
+    "icon": "",
+    "redirection-url":"/",
+    "type": "menu",
+    "css-class":"fa fa-caret-square-o-right",
+    "translations":
+    [
+      {
+        "language-code" :"en-gb",
+        "displaytext" : "CONNECT"
+      },
+      {
+        "language-code" :"fr-FR",
+        "displaytext" : ""
+      },
+      {
+        "language-code" :"de-DE",
+        "displaytext" : ""
+      }
+    ]
+  },
+  {
+    "menu-name": "Extract",
+    "icon": "",
+    "redirection-url":"/",
+    "type": "menu",
+    "css-class":"fa fa-caret-square-o-left",
+    "translations":
+    [
+      {
+        "language-code" :"en-gb",
+        "displaytext" : "EXTRACT"
+      },
+      {
+        "language-code" :"fr-FR",
+        "displaytext" : ""
+      },
+      {
+        "language-code" :"de-DE",
+        "displaytext" : ""
+      }
+    ]
+  },
+  {
+    "menu-name": "Break",
+    "icon": "",
+    "redirection-url":"/",
+    "type": "break",
+    "css-class":"",
+    "translations":
+    [
+
+    ]
+  },
+  {
+    "menu-name": "Settings",
+    "icon": "",
+    "redirection-url":"/",
+    "type": "menu",
+    "css-class":"fa fa-cog",
+    "translations":
+    [
+      {
+        "language-code" :"en-gb",
+        "displaytext" : "SETTINGS"
+      },
+      {
+        "language-code" :"fr-FR",
+        "displaytext" : ""
+      },
+      {
+        "language-code" :"de-DE",
+        "displaytext" : ""
+      }
+    ]
+  },
+  {
+  "menu-name": "Admin",
+  "icon": "",
+  "redirection-url":"/menu",
+  "type": "menu",
+  "css-class":"fa fa-user-o",
+  "translations":
+  [
+    {
+      "language-code" :"en-gb",
+      "displaytext" : "ADMIN"
+    },
+    {
+      "language-code" :"fr-FR",
+      "displaytext" : ""
+    },
+    {
+      "language-code" :"de-DE",
+      "displaytext" : ""
+    }
+  ]
+}
+]

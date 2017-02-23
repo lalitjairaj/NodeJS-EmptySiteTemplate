@@ -1,0 +1,97 @@
+[
+  {
+    "vehicleId": 1,
+    "vehicle-registration-number" : "VS VDO 95",
+    "location" : {
+      "lat": 48.124276,
+      "long" : 8.575655
+    },
+    "drivers" : [
+        {
+          "display-name": "Steve Taylor",
+          "total-driving" :  9780,
+          "total-working" : 0,
+          "total-availability" :  960,
+          "total-rest" : 10380,
+          "is-current-driver" : true,
+          "is-driver":true
+         },
+      {
+        "display-name": "Andreas Wolf",
+        "total-driving" :  5100,
+        "total-working" : 0,
+        "total-availability" :  0,
+        "total-rest" :  0,
+        "is-current-driver" : false,
+        "is-driver":true
+      }
+    ]
+  },
+  {
+    "vehicleId": 2,
+    "vehicle-registration-number" : "VS VDO 111",
+    "location" : {
+      "lat": 47.889030,
+      "long" : 8.380304
+    },
+    "drivers" : [
+      {
+        "display-name": "John Musterfaur",
+        "total-driving" :  9780,
+        "total-working" : 0,
+        "total-availability" :  960,
+        "total-rest" : 4320,
+        "is-current-driver" : true,
+        "is-driver":true
+      },
+      {
+        "display-name": "Gustav Olafsen",
+        "total-driving" :  12780,
+        "total-working" : 960,
+        "total-availability" :  0,
+        "total-rest" :  10800,
+        "is-current-driver" : true,
+        "is-driver":false
+      }
+    ]
+  },
+  {
+    "vehicleId": 3,
+    "vehicle-registration-number" : "VS VDO 54",
+    "location" : {
+      "lat": 48.155652,
+      "long" : 7.759355
+    },
+    "drivers" : [
+      {
+
+        "display-name": "Andreas Wolf",
+        "total-driving" :  9780,
+        "total-working" : 1380,
+        "total-availability" :  540,
+        "total-rest" :  15840,
+        "is-current-driver" : false,
+        "is-driver":true
+      }
+    ]
+  },
+  {
+    "vehicleId": 4,
+    "vehicle-registration-number" : "VS VDO 100",
+    "location" : {
+      "lat": 47.814925,
+      "long" : 8.598683
+    },
+    "drivers" : [
+      {
+        "display-name": "John Doe",
+        "total-driving" :  24180,
+        "total-working" : 0,
+        "total-availability" :  1380,
+        "total-rest" : 16920,
+        "is-current-driver" : true,
+        "is-driver" : true
+      }
+    ]
+  }
+]
