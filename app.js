@@ -2,7 +2,7 @@
 
 var express = require('express');
 var app= express();
-// var path= require('path');
+ var path= require('path');
 // var routes = require('./api/routes');
 // var bodyParser=require('body-parser');
 // //console.log(process.env);
@@ -19,7 +19,7 @@ app.get('/', function(req, res){
   //res.sendFile('base-page.html', { root: __dirname + "/public/views" } );
 });
 
-// app.use(express.static(path.join(__dirname,'public')));
+ app.use(express.static(path.join(__dirname,'public')));
 // app.use(bodyParser.urlencoded({extended:false}));
 // app.use('/api',routes);
 
