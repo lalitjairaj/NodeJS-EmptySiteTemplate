@@ -3,8 +3,8 @@
  */
 var express = require('express');
 var router = express.Router();
-var ctrlPlanner = require('../controllers/planner.controllers');
-var ctrlMenu = require('../controllers/menu.controllers');
+var ctrlPlanner = require('../controllers/planner.controllers.js');
+var ctrlMenu = require('../controllers/menu.controllers.js');
 router
     .route('/planner/Vehicles')
     .get(ctrlPlanner.getVehiclesForPlanner);
